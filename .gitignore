@@ -1,0 +1,7 @@
+# Project exclude paths
+/venv/
+.idea
+runs
+stored_models
+data/challenges
+data/responses
